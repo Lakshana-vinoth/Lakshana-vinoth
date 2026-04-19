@@ -2,27 +2,29 @@
 <h3 align="center">🚀 AI Engineer | LLM Developer | Smart Systems Innovator</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=AI+Engineer;LLM+%7C+NLP+Specialist;RAG+Systems+Builder;Smart+Systems+Developer;Future+Tech+Leader+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=AI+Engineer;LLM+%7C+NLP+Specialist;RAG+Systems+Builder;Smart+City+AI+Developer;Future+Tech+Leader+🚀" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=blackdaisy2026-commits&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Lakshana-vinoth&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/Lakshana-vinoth?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Building%20AI%20Projects%20🚀-success?style=for-the-badge" />
 </p>
 
 ---
 
-## 🧠 About Me  
+## 🧠 About Me
 
-🚀 Building *real-world AI systems* that solve impactful problems  
-🤖 Specialized in *LLMs, NLP, and RAG architectures*  
-☁️ Working with *AWS & Google Cloud*  
-💡 Passionate about *AI innovation and smart technologies*  
+🚀 Building *real-world AI systems* that solve impactful problems
+🤖 Specialized in *LLMs, NLP, and RAG architectures*
+☁️ Working with *AWS & Google Cloud*
+💡 Passionate about *AI innovation and smart technologies*
 
 ---
 
-## ⚡ Tech Stack  
+## ⚡ Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,js,react,mysql,aws,gcp,git,github,vscode" />
@@ -30,7 +32,7 @@
 
 ---
 
-## 🧪 AI Expertise  
+## 🧪 AI Expertise
 
 <p align="center">
 🧠 Machine Learning • NLP • LLMs • Prompt Engineering • RAG • Data Analytics  
@@ -38,69 +40,64 @@
 
 ---
 
-## 🚀 Featured Projects  
+## 🚀 Featured Projects
 
-### 🤖 AI Chatbot (LLM + NLP)  
-✔ Automated intelligent system  
-✔ Real-time response engine  
-✔ Cloud deployment  
+### 🤖 AI Chatbot (LLM + NLP)
 
----
-
-### 🏙️ Smart Infrastructure System  
-✔ AI + IoT monitoring  
-✔ Predictive alert system  
-✔ Real-time analytics dashboard  
+✔ Real-time intelligent response system
+✔ Cloud deployment
 
 ---
 
-### 🚦 Signet  
-✔ Smart traffic system using ML + IoT  
-✔ Emergency vehicle prioritization  
+### 🏙️ Smart Infrastructure System
+
+✔ AI + IoT monitoring
+✔ Predictive alert system
+✔ Real-time analytics dashboard
 
 ---
 
-### 🧠 NLP-Based Cybercrime Analyzer  
-✔ AI-powered text classification  
-✔ Crime pattern detection  
-✔ Intelligent reporting system  
+### 🚦 Signet
+
+✔ Smart traffic system using ML + IoT
+✔ Emergency vehicle prioritization
 
 ---
 
-## 📊 GitHub Analytics  
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=blackdaisy2026-commits&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=blackdaisy2026-commits&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lakshana-vinoth&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lakshana-vinoth&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🏆 Achievements  
+## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=blackdaisy2026-commits&theme=tokyonight&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Lakshana-vinoth&theme=tokyonight&no-frame=true&margin-w=10" />
 </p>
 
 ---
 
-## 📈 Contribution Graph  
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=blackdaisy2026-commits&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lakshana-vinoth&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake Animation  
+## 🐍 Contribution Snake Animation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/blackdaisy2026-commits/blackdaisy2026-commits/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Lakshana-vinoth/Lakshana-vinoth/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-## 🌐 Connect With Me  
+## 🌐 Connect With Me
 
 <p align="center">
 <a href="https://www.linkedin.com/">
@@ -111,14 +108,14 @@
 <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel">
 </a>
 
-<a href="mailto:yourmail@gmail.com">
+<a href="mailto:lakshanavinoth06@gmail.com">
 <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
 </a>
 </p>
 
 ---
 
-## 🧠 Quote of the Day  
+## 🧠 Quote of the Day
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
@@ -126,9 +123,9 @@
 
 ---
 
-## 🔥 Fun Fact  
+## 🔥 Fun Fact
 
-💡 I don’t just write code — I build *intelligent systems that think*  
+💡 I don’t just write code — I build *intelligent systems that think*
 
 ---
 
